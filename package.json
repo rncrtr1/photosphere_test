@@ -1,0 +1,19 @@
+{
+  "name": "photoSphere",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "marzipano": "^0.9.1",
+    "nuxt": "^2.14.0",
+    "photo-sphere-viewer": "^4.0.7",
+    "three": "^0.120.1",
+    "uevent": "^2.0.0"
+  },
+  "devDependencies": {}
+}
